@@ -1,0 +1,11 @@
+C:\Users\Moe\Desktop\C#\BaseApp\FormulaOne.DataService\bin\Debug\net7.0\FormulaOne.DataService.deps.json
+C:\Users\Moe\Desktop\C#\BaseApp\FormulaOne.DataService\bin\Debug\net7.0\FormulaOne.DataService.dll
+C:\Users\Moe\Desktop\C#\BaseApp\FormulaOne.DataService\bin\Debug\net7.0\FormulaOne.DataService.pdb
+C:\Users\Moe\Desktop\C#\BaseApp\FormulaOne.DataService\obj\Debug\net7.0\FormulaOne.DataService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moe\Desktop\C#\BaseApp\FormulaOne.DataService\obj\Debug\net7.0\FormulaOne.DataService.AssemblyInfoInputs.cache
+C:\Users\Moe\Desktop\C#\BaseApp\FormulaOne.DataService\obj\Debug\net7.0\FormulaOne.DataService.AssemblyInfo.cs
+C:\Users\Moe\Desktop\C#\BaseApp\FormulaOne.DataService\obj\Debug\net7.0\FormulaOne.DataService.csproj.CoreCompileInputs.cache
+C:\Users\Moe\Desktop\C#\BaseApp\FormulaOne.DataService\obj\Debug\net7.0\FormulaOne.DataService.dll
+C:\Users\Moe\Desktop\C#\BaseApp\FormulaOne.DataService\obj\Debug\net7.0\refint\FormulaOne.DataService.dll
+C:\Users\Moe\Desktop\C#\BaseApp\FormulaOne.DataService\obj\Debug\net7.0\FormulaOne.DataService.pdb
+C:\Users\Moe\Desktop\C#\BaseApp\FormulaOne.DataService\obj\Debug\net7.0\ref\FormulaOne.DataService.dll
